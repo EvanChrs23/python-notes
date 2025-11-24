@@ -1,10 +1,6 @@
-print('Enter 5 numbers less than 32000, seperate it by hitting "Enter"')
+n = 5
 
-highest = 0
-
-for i in range(5):
-    num = int(input(">> "))
-    if num >= highest:
-        highest = num
-
-print(highest)
+for i in range(n):
+    print(" "*(n-i+1), "*"*(2*i+1))
+for i in range(n-1, 0, -1):
+    print(" "*(n-i+2), "*"*(2*i-1))
