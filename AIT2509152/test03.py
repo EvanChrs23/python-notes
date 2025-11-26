@@ -1,6 +1,8 @@
 from sys import argv
 
-script, n, x = argv
+script, power, number = argv
+n = int(power)
+x = int(number)
 total = 0
 
 for i in range(n):
