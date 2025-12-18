@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4102802897_1412959253_223132457.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_325436626_2250132931.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_1121617232_2645725510.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_1924703445_990748502.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_1121617232_3365608631.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_423948310_1470065592.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_1121617232_1329918533.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_3523380788_2406270556.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/code/480p15/partial_movie_files/TransformExample/4160646025_1831374817_1102325488.mp4'
