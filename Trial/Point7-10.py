@@ -21,8 +21,8 @@ class TransformPresentation(ThreeDScene):
         self.remove(cube_h)
 
         # ---------- 2. Combining Transformations ----------
-        cube1 = Cube().set_fill(GREEN, opacity=0.5).move_to(LEFT*3)
-        cube2 = Cube().set_fill(RED, opacity=0.5).move_to(RIGHT*3)
+        cube1 = Cube().set_fill(GREEN, opacity=0.5)
+        cube2 = Cube().set_fill(RED, opacity=0.5)
         self.add(cube1, cube2)
         self.play(
             cube1.animate.scale(1.5),
@@ -48,7 +48,8 @@ class TransformPresentation(ThreeDScene):
         self.add(local_cube, world_cube)
         self.play(local_cube.animate.rotate_about_origin(PI/2), run_time=2)  # local
         self.wait(2)
-        self.play(local_cube.animate.move_to(UP*1.5).rotate(PI/2, axis=Y_AXIS), run_time=2)  # world
+        self.play(local_cube.animate.rotate_about_origin(-PI/2), run_time=0.02)
+        self.play(local_cube.animate.rotate(PI/2, axis=Z_AXIS), run_time=2)  # world
         self.wait(2)
         self.remove(local_cube, world_cube)
 

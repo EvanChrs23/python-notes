@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Point9/1080p60/partial_movie_files/TransformPresentation/60947643_785577470_156196807.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Point9/1080p60/partial_movie_files/TransformPresentation/231641086_1831374817_1832463626.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Point9/1080p60/partial_movie_files/TransformPresentation/231641086_1922420356_2023108177.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Point9/1080p60/partial_movie_files/TransformPresentation/231641086_1970714407_3249619071.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Point9/1080p60/partial_movie_files/TransformPresentation/231641086_1831374817_879861560.mp4'
