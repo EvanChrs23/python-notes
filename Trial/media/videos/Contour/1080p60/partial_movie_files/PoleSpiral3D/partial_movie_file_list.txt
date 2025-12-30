@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Contour/1080p60/partial_movie_files/PoleSpiral3D/294419478_3499957976_223132457.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Contour/1080p60/partial_movie_files/PoleSpiral3D/570761921_2529116587_2050573381.mp4'
+file 'file:C:/Users/evanc/Favorites/Links/MyPythonProjects/Trial/media/videos/Contour/1080p60/partial_movie_files/PoleSpiral3D/570761921_2005305742_499227066.mp4'
